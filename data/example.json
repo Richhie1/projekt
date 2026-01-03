@@ -1,0 +1,54 @@
+{
+  "client": "E-shop Orion",
+  "period": "2024-10-07 až 2024-10-13",
+  "currency": "CZK",
+  "totals": {
+    "impressions": 128400,
+    "clicks": 5120,
+    "spend": 184500,
+    "conversions": 296,
+    "revenue": 1210000
+  },
+  "channels": [
+    {
+      "name": "Google Ads",
+      "spend": 132800,
+      "clicks": 3680,
+      "conversions": 214,
+      "revenue": 915000,
+      "notes": "Silné výsledky z brandových kampaní, Smart Shopping mírně klesá."
+    },
+    {
+      "name": "Sklik",
+      "spend": 32600,
+      "clicks": 980,
+      "conversions": 54,
+      "revenue": 194000,
+      "notes": "Retargeting drží ROAS, nové produkty mají slabší CTR."
+    },
+    {
+      "name": "Meta Ads",
+      "spend": 19000,
+      "clicks": 460,
+      "conversions": 28,
+      "revenue": 102000,
+      "notes": "Top-funnel kampaně přivádí nové návštěvy, ale zatím málo konverzí."
+    }
+  ],
+  "benchmarks": {
+    "click_through_rate": 0.04,
+    "conversion_rate": 0.06,
+    "cost_per_conversion": 750,
+    "roas": 5.0
+  },
+  "changes_vs_prev_week": {
+    "spend_pct": 0.08,
+    "conversions_pct": 0.12,
+    "roas_pct": -0.05
+  },
+  "upcoming_events": [
+    "11/11 slevová akce",
+    "Příchod nové kolekce zimních bund",
+    "Úprava feedu pro Heureku (ETA pátek)"
+  ]
+}

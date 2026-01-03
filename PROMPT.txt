@@ -1,0 +1,39 @@
+Generuj týdenní PPC report pro E-shop Orion (období 2024-10-07 až 2024-10-13).
+Piš česky, stručně, obchodně a věcně.
+Rozsah: max 6 vět shrnutí, body pro další sekce.
+Zahrň čísla přímo v textu, nepřidávej data, která nemáme.
+
+Dostupná data (souhrn):
+- Zobrazení: 128 400
+- Prokliky: 5 120
+- Útrata: 184 500 CZK
+- Konverze: 296
+- Obrat: 1 210 000 CZK
+- Mezitýdenní vývoj:
+  - Útrata: +8.0% vs. minulý týden
+  - Konverze: +12.0% vs. minulý týden
+  - ROAS: -5.0% vs. minulý týden
+
+Kanály:
+- Google Ads: útrata 132 800 CZK, prokliky 3680, konverze 214, obrat 915 000 CZK. Pozn.: Silné výsledky z brandových kampaní, Smart Shopping mírně klesá.
+- Sklik: útrata 32 600 CZK, prokliky 980, konverze 54, obrat 194 000 CZK. Pozn.: Retargeting drží ROAS, nové produkty mají slabší CTR.
+- Meta Ads: útrata 19 000 CZK, prokliky 460, konverze 28, obrat 102 000 CZK. Pozn.: Top-funnel kampaně přivádí nové návštěvy, ale zatím málo konverzí.
+
+Interní benchmarky (pro kontext, ne jako KPI):
+- CTR: 0.04
+- CR: 0.06
+- CPCo: 750 CZK
+- ROAS: 5.0
+
+Blížící se události:
+- 11/11 slevová akce
+- Příchod nové kolekce zimních bund
+- Úprava feedu pro Heureku (ETA pátek)
+
+Struktura výstupu:
+1) Shrnutí (max 6 vět).
+2) Co šlo dobře / co nefungovalo.
+3) 5 doporučení, každé uveď jako: [P1–P3] Doporučení — očekávaný dopad.
+4) 3 rizika/varování s krátkým kontextem.
+5) Max 5 dotazů na klienta.
+Styl: konkrétně, bez výplně, uváděj data a trendy, zdůrazni priority.
